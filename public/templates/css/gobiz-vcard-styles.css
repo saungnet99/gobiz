@@ -1,0 +1,1869 @@
+/* Written by NativeCode
+https://nativecode.in */
+
+/* classes
+
+bottom-style-11
+left-style-8
+right-left-style-6
+all-side-style-7
+wave-style-2
+full-pattern-12
+profile-style-13
+bg-pattern-30
+
+*/
+
+/* Bottom styles */
+
+.bottom-style-1 {
+    --mask: radial-gradient(27px at bottom, #0000 97%, #000) 50% / 49.95px 100%;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-2 {
+    --mask: radial-gradient(76px at bottom, #0000 97%, #000) 50% / 140.6px 100%;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-3 {
+    --mask: radial-gradient(111px at bottom, #0000 97%, #000) 50% / 205.35px
+        100%;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-4 {
+    --mask: conic-gradient(
+            from -70deg at bottom,
+            #0000,
+            #000 1deg 139deg,
+            #0000 140deg
+        )
+        50%/362.67px 100%;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-5 {
+    --mask: conic-gradient(
+            from -57.5deg at bottom,
+            #0000,
+            #000 1deg 114deg,
+            #0000 115deg
+        )
+        50%/207.2px 100%;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-6 {
+    --mask: conic-gradient(
+            from -57.5deg at bottom,
+            #0000,
+            #000 1deg 114deg,
+            #0000 115deg
+        )
+        50%/50.23px 100%;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-7 {
+    --mask: conic-gradient(
+            from -20deg at bottom,
+            #0000,
+            #000 1deg 39deg,
+            #0000 40deg
+        )
+        50%/11.65px 100%;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-8 {
+    --mask: linear-gradient(to top, #0000 12px, #000 0),
+        radial-gradient(12px, #000 98%, #0000) bottom/22.20px 24px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-9 {
+    --mask: linear-gradient(to top, #0000 39px, #000 0),
+        radial-gradient(39px, #000 98%, #0000) bottom/72.15px 78px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-10 {
+    --mask: radial-gradient(11px at 75% 100%, #0000 98%, #000) 50%
+            calc(100% - 11px) / 44px 100% repeat-x,
+        radial-gradient(11px at 25% 50%, #000 99%, #0000 101%) bottom/44px 22px
+            repeat-x;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.bottom-style-11 {
+    --mask: conic-gradient(
+            from -70deg at bottom,
+            #0000,
+            #000 1deg 139deg,
+            #0000 140deg
+        )
+        50%/351.68px 100%;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+/* cover left styles */
+
+.left-style-1 {
+    --mask: conic-gradient(
+            from 20deg at left,
+            #0000,
+            #000 1deg 139deg,
+            #0000 140deg
+        )
+        50%/100% 351.68px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.left-style-2 {
+    --mask: conic-gradient(
+            from 45deg at left,
+            #0000,
+            #000 1deg 89deg,
+            #0000 90deg
+        )
+        50%/100% 128px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.left-style-3 {
+    --mask: conic-gradient(
+            from 67.5deg at left,
+            #0000,
+            #000 1deg 44deg,
+            #0000 45deg
+        )
+        50%/100% 53.02px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.left-style-4 {
+    --mask: radial-gradient(148px at left, #0000 97%, #000) 50%/ 100% 273.8px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.left-style-5 {
+    --mask: radial-gradient(23px at left, #0000 97%, #000) 50%/ 100% 42.55px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.left-style-6 {
+    --mask: linear-gradient(to right, #0000 23px, #000 0),
+        radial-gradient(23px, #000 98%, #0000) left/46px 42.55px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.left-style-7 {
+    --mask: linear-gradient(to right, #0000 45px, #000 0),
+        radial-gradient(45px, #000 98%, #0000) left/90px 83.25px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.left-style-8 {
+    --mask: radial-gradient(14px at 0 75%, #0000 98%, #000) 14px 50%/100% 56px
+            repeat-y,
+        radial-gradient(14px at 50% 25%, #000 99%, #0000 101%) left/28px 56px
+            repeat-y;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.right-left-style-1 {
+    --mask: linear-gradient(-90deg, #0000 28px, #000 0) 14px,
+        radial-gradient(14px, #000 98%, #0000) 50%/28px 25.9px space repeat;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.right-left-style-2 {
+    --mask: linear-gradient(-90deg, #0000 50px, #000 0) 25px,
+        radial-gradient(25px, #000 98%, #0000) 50%/50px 46.25px space repeat;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.right-left-style-3 {
+    --mask: radial-gradient(25px at 25px 50%, #0000 97%, #000) -25px/ 100%
+        46.25px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.right-left-style-4 {
+    --mask: conic-gradient(
+                from 45deg at left,
+                #0000,
+                #000 1deg 89deg,
+                #0000 90deg
+            )
+            left/51% 50px repeat-y,
+        conic-gradient(
+                from -135deg at right,
+                #0000,
+                #000 1deg 89deg,
+                #0000 90deg
+            )
+            right/51% 50px repeat-y;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.right-left-style-5 {
+    --mask: conic-gradient(
+                from 20deg at left,
+                #0000,
+                #000 1deg 139deg,
+                #0000 140deg
+            )
+            left/51% 137.37px repeat-y,
+        conic-gradient(
+                from -160deg at right,
+                #0000,
+                #000 1deg 139deg,
+                #0000 140deg
+            )
+            right/51% 137.37px repeat-y;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.right-left-style-6 {
+    --mask: conic-gradient(
+                from 20deg at left,
+                #0000,
+                #000 1deg 139deg,
+                #0000 140deg
+            )
+            left/51% 49.45px repeat-y,
+        conic-gradient(
+                from -160deg at right,
+                #0000,
+                #000 1deg 139deg,
+                #0000 140deg
+            )
+            right/51% 49.45px repeat-y;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.all-side-style-1 {
+    --mask: linear-gradient(#000 0 0) center/calc(100% - 10px) calc(100% - 10px)
+            no-repeat,
+        conic-gradient(from 135deg at top, #0000, #000 1deg 89deg, #0000 90deg)
+            0 0 /18px 9px space no-repeat,
+        conic-gradient(
+                from -45deg at bottom,
+                #0000,
+                #000 1deg 89deg,
+                #0000 90deg
+            )
+            0 100%/18px 9px space no-repeat,
+        conic-gradient(from 45deg at left, #0000, #000 1deg 89deg, #0000 90deg)
+            0 0 /9px 18px no-repeat space,
+        conic-gradient(
+                from -135deg at right,
+                #0000,
+                #000 1deg 89deg,
+                #0000 90deg
+            )
+            100% 0/9px 18px no-repeat space;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.all-side-style-2 {
+    --mask: linear-gradient(#000 0 0) center/calc(100% - 54px) calc(100% - 54px)
+            no-repeat,
+        conic-gradient(from 135deg at top, #0000, #000 1deg 89deg, #0000 90deg)
+            0 0 /54px 27px space no-repeat,
+        conic-gradient(
+                from -45deg at bottom,
+                #0000,
+                #000 1deg 89deg,
+                #0000 90deg
+            )
+            0 100%/54px 27px space no-repeat,
+        conic-gradient(from 45deg at left, #0000, #000 1deg 89deg, #0000 90deg)
+            0 0 /27px 54px no-repeat space,
+        conic-gradient(
+                from -135deg at right,
+                #0000,
+                #000 1deg 89deg,
+                #0000 90deg
+            )
+            100% 0/27px 54px no-repeat space;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.all-side-style-3 {
+    --mask: linear-gradient(#000 0 0) center/calc(100% - 80px) calc(100% - 80px)
+            no-repeat,
+        conic-gradient(from 135deg at top, #0000, #000 1deg 89deg, #0000 90deg)
+            0 0 /80px 40px space no-repeat,
+        conic-gradient(
+                from -45deg at bottom,
+                #0000,
+                #000 1deg 89deg,
+                #0000 90deg
+            )
+            0 100%/80px 40px space no-repeat,
+        conic-gradient(from 45deg at left, #0000, #000 1deg 89deg, #0000 90deg)
+            0 0 /40px 80px no-repeat space,
+        conic-gradient(
+                from -135deg at right,
+                #0000,
+                #000 1deg 89deg,
+                #0000 90deg
+            )
+            100% 0/40px 80px no-repeat space;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.all-side-style-4 {
+    --mask: linear-gradient(#000 0 0) 50% / calc(100% - 24px) calc(100% - 24px)
+            no-repeat,
+        radial-gradient(12px, #0000 98%, #000) 0 -12px/22.2px 24px round no-repeat,
+        radial-gradient(12px, #0000 98%, #000) 0 calc(100% + 12px) / 22.2px 24px
+            round no-repeat,
+        radial-gradient(12px, #0000 98%, #000) -12px 0/24px 22.2px no-repeat round,
+        radial-gradient(12px, #0000 98%, #000) calc(100% + 12px) 0/24px 22.2px
+            no-repeat round;
+    clip-path: polygon(
+        24px 0,
+        calc(100% - 24px) 0,
+        100% 24px,
+        100% calc(100% - 24px),
+        calc(100% - 24px) 100%,
+        24px 100%,
+        0 calc(100% - 24px),
+        0 24px
+    );
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.all-side-style-5 {
+    --mask: linear-gradient(#000 0 0) 50% / calc(100% - 52px) calc(100% - 52px)
+            no-repeat,
+        radial-gradient(26px, #0000 98%, #000) 0 -26px/48.1px 52px round no-repeat,
+        radial-gradient(26px, #0000 98%, #000) 0 calc(100% + 26px) / 48.1px 52px
+            round no-repeat,
+        radial-gradient(26px, #0000 98%, #000) -26px 0/52px 48.1px no-repeat round,
+        radial-gradient(26px, #0000 98%, #000) calc(100% + 26px) 0/52px 48.1px
+            no-repeat round;
+    clip-path: polygon(
+        52px 0,
+        calc(100% - 52px) 0,
+        100% 52px,
+        100% calc(100% - 52px),
+        calc(100% - 52px) 100%,
+        52px 100%,
+        0 calc(100% - 52px),
+        0 52px
+    );
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.all-side-style-6 {
+    --mask: linear-gradient(#000 0 0) 50% / calc(100% - 48.1px)
+            calc(100% - 48.1px) no-repeat,
+        radial-gradient(farthest-side, #000 98%, #0000) 0 0/52px 52px round;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.all-side-style-7 {
+    --mask: linear-gradient(#000 0 0) 50% / calc(100% - 25.9px)
+            calc(100% - 25.9px) no-repeat,
+        radial-gradient(farthest-side, #000 98%, #0000) 0 0/28px 28px round;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.wave-style-1 {
+    --mask: radial-gradient(
+                136.4px at 50% calc(100% - 183px),
+                #000 99%,
+                #0000 101%
+            )
+            calc(50% - 122px) 0/244px 100%,
+        radial-gradient(136.4px at 50% calc(100% + 122px), #0000 99%, #000 101%)
+            50% calc(100% - 61px) / 244px 100% repeat-x;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.wave-style-2 {
+    --mask: radial-gradient(
+                107.44px at 50% calc(100% - 149.45px),
+                #000 99%,
+                #0000 101%
+            )
+            calc(50% - 122px) 0/244px 100%,
+        radial-gradient(
+                107.44px at 50% calc(100% + 88.45px),
+                #0000 99%,
+                #000 101%
+            )
+            50% calc(100% - 61px) / 244px 100% repeat-x;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-1 {
+    --mask: radial-gradient(
+                18px at 50% calc(100% + 0px),
+                #0000 calc(99% - 8px),
+                #000 calc(101% - 8px) 99%,
+                #0000 101%
+            )
+            calc(50% - 28px) calc(50% - 11px + 0.5px) / 56px 22px,
+        radial-gradient(
+                18px at 50% 0px,
+                #0000 calc(99% - 8px),
+                #000 calc(101% - 8px) 99%,
+                #0000 101%
+            )
+            50% calc(50% + 11px) / 56px 22px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-2 {
+    --mask: radial-gradient(
+                19.65px at 50% calc(100% + 7px),
+                #0000 calc(99% - 8px),
+                #000 calc(101% - 8px) 99%,
+                #0000 101%
+            )
+            calc(50% - 28px) calc(50% - 11px + 0.5px) / 56px 22px,
+        radial-gradient(
+                19.65px at 50% -7px,
+                #0000 calc(99% - 8px),
+                #000 calc(101% - 8px) 99%,
+                #0000 101%
+            )
+            50% calc(50% + 11px) / 56px 22px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-3 {
+    --mask: radial-gradient(
+                23.03px at 50% calc(100% + 6.5px),
+                #0000 calc(99% - 17px),
+                #000 calc(101% - 17px) 99%,
+                #0000 101%
+            )
+            calc(50% - 26px) calc(50% - 15px + 0.5px) / 52px 30px,
+        radial-gradient(
+                23.03px at 50% -6.5px,
+                #0000 calc(99% - 17px),
+                #000 calc(101% - 17px) 99%,
+                #0000 101%
+            )
+            50% calc(50% + 15px) / 52px 30px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-4 {
+    --mask: radial-gradient(
+                16.33px at 50% calc(100% + 3.5px),
+                #0000 calc(99% - 17px),
+                #000 calc(101% - 17px) 99%,
+                #0000 101%
+            )
+            calc(50% - 14px) calc(50% - 12px + 0.5px) / 28px 24px,
+        radial-gradient(
+                16.33px at 50% -3.5px,
+                #0000 calc(99% - 17px),
+                #000 calc(101% - 17px) 99%,
+                #0000 101%
+            )
+            50% calc(50% + 12px) / 28px 24px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-5 {
+    --mask: radial-gradient(
+                10.94px at 50% calc(100% + 4px),
+                #0000 calc(99% - 4px),
+                #000 calc(101% - 4px) 99%,
+                #0000 101%
+            )
+            calc(50% - 16px) calc(50% - 6px + 0.5px) / 32px 12px,
+        radial-gradient(
+                10.94px at 50% -4px,
+                #0000 calc(99% - 4px),
+                #000 calc(101% - 4px) 99%,
+                #0000 101%
+            )
+            50% calc(50% + 6px) / 32px 12px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-6 {
+    --mask: radial-gradient(
+                10.06px at 50% calc(100% + 7px),
+                #0000 calc(99% - 4px),
+                #000 calc(101% - 4px) 99%,
+                #0000 101%
+            )
+            calc(50% - 8px) calc(50% - 4px + 0.5px) / 16px 8px,
+        radial-gradient(
+                10.06px at 50% -7px,
+                #0000 calc(99% - 4px),
+                #000 calc(101% - 4px) 99%,
+                #0000 101%
+            )
+            50% calc(50% + 4px) / 16px 8px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-7 {
+    --mask: radial-gradient(
+                19.11px at calc(100% + 12.25px) 50%,
+                #0000 calc(99% - 10px),
+                #000 calc(101% - 10px) 99%,
+                #0000 101%
+            )
+            calc(50% - 8.5px + 0.5px) calc(50% - 14px) / 17px 28px,
+        radial-gradient(
+                19.11px at -12.25px 50%,
+                #0000 calc(99% - 10px),
+                #000 calc(101% - 10px) 99%,
+                #0000 101%
+            )
+            calc(50% + 8.5px) 50%/17px 28px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-8 {
+    --mask: radial-gradient(
+                13.06px at calc(100% + 7px) 50%,
+                #0000 calc(99% - 10px),
+                #000 calc(101% - 10px) 99%,
+                #0000 101%
+            )
+            calc(50% - 7px + 0.5px) calc(50% - 8px) / 14px 16px,
+        radial-gradient(
+                13.06px at -7px 50%,
+                #0000 calc(99% - 10px),
+                #000 calc(101% - 10px) 99%,
+                #0000 101%
+            )
+            calc(50% + 7px) 50%/14px 16px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-9 {
+    --mask: radial-gradient(
+                11.08px at calc(100% + 8.75px) 50%,
+                #0000 calc(99% - 2px),
+                #000 calc(101% - 2px) 99%,
+                #0000 101%
+            )
+            calc(50% - 3.5px + 0.5px) calc(50% - 10px) / 7px 20px,
+        radial-gradient(
+                11.08px at -8.75px 50%,
+                #0000 calc(99% - 2px),
+                #000 calc(101% - 2px) 99%,
+                #0000 101%
+            )
+            calc(50% + 3.5px) 50%/7px 20px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-10 {
+    --mask: radial-gradient(
+                22.07px at calc(100% + 3.9px) 50%,
+                #0000 calc(99% - 17px),
+                #000 calc(101% - 17px) 99%,
+                #0000 101%
+            )
+            calc(50% - 15px + 0.5px) calc(50% - 26px) / 30px 52px,
+        radial-gradient(
+                22.07px at -3.9px 50%,
+                #0000 calc(99% - 17px),
+                #000 calc(101% - 17px) 99%,
+                #0000 101%
+            )
+            calc(50% + 15px) 50%/30px 52px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-11 {
+    --mask: radial-gradient(30px at 30px 30px, #0000 98%, #000) -30px -30px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.full-pattern-12 {
+    clip-path: polygon(
+        0 21.96px,
+        30px 30px,
+        21.96px 0,
+        calc(100% - 21.96px) 0,
+        calc(100% - 30px) 30px,
+        100% 21.96px,
+        100% calc(100% - 21.96px),
+        calc(100% - 30px) calc(100% - 30px),
+        calc(100% - 21.96px) 100%,
+        21.96px 100%,
+        30px calc(100% - 30px),
+        0 calc(100% - 21.96px)
+    );
+}
+
+/* Profile Style */
+
+.profile-style-1 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        100% 50%,
+        71.21% 71.21%,
+        50% 100%,
+        28.79% 71.21%,
+        0% 50%,
+        28.79% 28.79%,
+        50% 0%,
+        71.21% 28.79%
+    );
+}
+
+.profile-style-2 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        85.91% 84.8%,
+        50.47% 80%,
+        15.2% 85.91%,
+        20% 50.47%,
+        14.09% 15.2%,
+        49.53% 20%,
+        84.8% 14.09%,
+        80% 49.53%
+    );
+}
+
+.profile-style-3 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        79.9% 90.08%,
+        50.38% 80%,
+        21.12% 90.82%,
+        21.59% 59.63%,
+        2.26% 35.15%,
+        32.06% 25.95%,
+        49.37% 0%,
+        67.33% 25.51%,
+        97.35% 33.95%,
+        78.65% 58.91%
+    );
+}
+
+.profile-style-4 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        93.04% 75.45%,
+        64.73% 76.14%,
+        49.48% 100%,
+        34.73% 75.82%,
+        6.44% 74.55%,
+        20% 49.69%,
+        6.96% 24.55%,
+        35.27% 23.86%,
+        50.52% 0%,
+        65.27% 24.18%,
+        93.56% 25.45%,
+        80% 50.31%
+    );
+}
+
+.profile-style-5 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        96.04% 69.5%,
+        71.05% 71.38%,
+        68.77% 96.34%,
+        49.76% 80%,
+        30.5% 96.04%,
+        28.62% 71.05%,
+        3.66% 68.77%,
+        20% 49.76%,
+        3.96% 30.5%,
+        28.95% 28.62%,
+        31.23% 3.66%,
+        50.24% 20%,
+        69.5% 3.96%,
+        71.38% 28.95%,
+        96.34% 31.23%,
+        80% 50.24%
+    );
+}
+
+.profile-style-6 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        96.04% 69.5%,
+        77.36% 77.79%,
+        68.77% 96.34%,
+        49.69% 89%,
+        30.5% 96.04%,
+        22.21% 77.36%,
+        3.66% 68.77%,
+        11% 49.69%,
+        3.96% 30.5%,
+        22.64% 22.21%,
+        31.23% 3.66%,
+        50.31% 11%,
+        69.5% 3.96%,
+        77.79% 22.64%,
+        96.34% 31.23%,
+        89% 50.31%
+    );
+}
+
+.profile-style-7 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        96.04% 69.5%,
+        77.36% 77.79%,
+        68.77% 96.34%,
+        49.69% 89%,
+        30.5% 96.04%,
+        22.21% 77.36%,
+        3.66% 68.77%,
+        11% 49.69%,
+        3.96% 30.5%,
+        22.64% 22.21%,
+        31.23% 3.66%,
+        50.31% 11%,
+        69.5% 3.96%,
+        77.79% 22.64%,
+        96.34% 31.23%,
+        89% 50.31%
+    );
+}
+
+.profile-style-8 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        99.21% 58.85%,
+        93.17% 65.88%,
+        93.21% 75.15%,
+        85.13% 79.69%,
+        82.01% 88.41%,
+        72.86% 89.92%,
+        66.94% 97.04%,
+        57.83% 95.33%,
+        49.83% 100%,
+        41.85% 95.27%,
+        32.74% 96.92%,
+        26.86% 89.76%,
+        17.73% 88.19%,
+        14.66% 79.45%,
+        6.61% 74.85%,
+        6.72% 65.58%,
+        0.73% 58.51%,
+        4% 49.84%,
+        0.79% 41.15%,
+        6.83% 34.12%,
+        6.79% 24.85%,
+        14.87% 20.31%,
+        17.99% 11.59%,
+        27.14% 10.08%,
+        33.06% 2.96%,
+        42.17% 4.67%,
+        50.17% 0%,
+        58.15% 4.73%,
+        67.26% 3.08%,
+        73.14% 10.24%,
+        82.27% 11.81%,
+        85.34% 20.55%,
+        93.39% 25.15%,
+        93.28% 34.42%,
+        99.27% 41.49%,
+        96% 50.16%
+    );
+}
+
+.profile-style-9 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        99.71% 55.34%,
+        97.12% 59.15%,
+        98.1% 63.66%,
+        94.89% 66.99%,
+        95.1% 71.6%,
+        91.38% 74.33%,
+        90.8% 78.91%,
+        86.67% 80.97%,
+        85.33% 85.39%,
+        80.91% 86.72%,
+        78.84% 90.85%,
+        74.26% 91.42%,
+        71.52% 95.13%,
+        66.91% 94.92%,
+        63.58% 98.12%,
+        59.07% 97.13%,
+        55.25% 99.72%,
+        50.98% 97.99%,
+        46.78% 99.9%,
+        42.85% 97.47%,
+        38.39% 98.63%,
+        34.93% 95.57%,
+        30.34% 95.97%,
+        27.45% 92.37%,
+        22.85% 91.99%,
+        20.61% 87.95%,
+        16.15% 86.8%,
+        14.62% 82.44%,
+        10.41% 80.54%,
+        9.65% 75.99%,
+        5.82% 73.42%,
+        5.84% 68.8%,
+        2.5% 65.61%,
+        3.29% 61.07%,
+        0.54% 57.36%,
+        2.09% 53.01%,
+        0.01% 48.9%,
+        2.27% 44.87%,
+        0.92% 40.46%,
+        3.83% 36.88%,
+        3.24% 32.31%,
+        6.71% 29.27%,
+        6.9% 24.66%,
+        10.83% 22.25%,
+        11.8% 17.74%,
+        16.09% 16.03%,
+        17.8% 11.75%,
+        22.32% 10.79%,
+        24.73% 6.86%,
+        29.34% 6.67%,
+        32.39% 3.21%,
+        36.96% 3.8%,
+        40.55% 0.9%,
+        44.96% 2.27%,
+        48.98% 0.01%,
+        53.1% 2.1%,
+        57.44% 0.56%,
+        61.15% 3.31%,
+        65.69% 2.53%,
+        68.88% 5.87%,
+        73.49% 5.86%,
+        76.06% 9.69%,
+        80.61% 10.47%,
+        82.5% 14.68%,
+        86.85% 16.21%,
+        88% 20.68%,
+        92.03% 22.92%,
+        92.41% 27.52%,
+        96% 30.42%,
+        95.6% 35.01%,
+        98.65% 38.47%,
+        97.48% 42.93%,
+        99.9% 46.86%,
+        97.99% 51.06%
+    );
+}
+
+.profile-style-10 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        99.84% 53.95%,
+        97.52% 56.79%,
+        98.95% 60.17%,
+        96.29% 62.69%,
+        97.29% 66.23%,
+        94.33% 68.4%,
+        94.89% 72.03%,
+        91.68% 73.81%,
+        91.77% 77.48%,
+        88.37% 78.84%,
+        88% 82.5%,
+        84.45% 83.43%,
+        83.63% 87%,
+        79.99% 87.48%,
+        78.72% 90.93%,
+        75.05% 90.94%,
+        73.37% 94.2%,
+        69.73% 93.76%,
+        67.64% 96.78%,
+        64.09% 95.89%,
+        61.64% 98.63%,
+        58.22% 97.29%,
+        55.46% 99.7%,
+        52.23% 97.95%,
+        49.18% 99.99%,
+        46.2% 97.85%,
+        42.92% 99.5%,
+        40.24% 97%,
+        36.78% 98.22%,
+        34.42% 95.4%,
+        30.84% 96.18%,
+        28.86% 93.09%,
+        25.2% 93.42%,
+        23.62% 90.1%,
+        19.95% 89.97%,
+        18.8% 86.48%,
+        15.18% 85.88%,
+        14.48% 82.28%,
+        10.96% 81.24%,
+        10.71% 77.58%,
+        7.35% 76.1%,
+        7.57% 72.43%,
+        4.42% 70.55%,
+        5.09% 66.94%,
+        2.2% 64.67%,
+        3.32% 61.18%,
+        0.74% 58.57%,
+        2.29% 55.24%,
+        0.05% 52.32%,
+        2.01% 49.22%,
+        0.16% 46.05%,
+        2.48% 43.21%,
+        1.05% 39.83%,
+        3.71% 37.31%,
+        2.71% 33.77%,
+        5.67% 31.6%,
+        5.11% 27.97%,
+        8.32% 26.19%,
+        8.23% 22.52%,
+        11.63% 21.16%,
+        12% 17.5%,
+        15.55% 16.57%,
+        16.37% 13%,
+        20.01% 12.52%,
+        21.28% 9.07%,
+        24.95% 9.06%,
+        26.63% 5.8%,
+        30.27% 6.24%,
+        32.36% 3.22%,
+        35.91% 4.11%,
+        38.36% 1.37%,
+        41.78% 2.71%,
+        44.54% 0.3%,
+        47.77% 2.05%,
+        50.82% 0.01%,
+        53.8% 2.15%,
+        57.08% 0.5%,
+        59.76% 3%,
+        63.22% 1.78%,
+        65.58% 4.6%,
+        69.16% 3.82%,
+        71.14% 6.91%,
+        74.8% 6.58%,
+        76.38% 9.9%,
+        80.05% 10.03%,
+        81.2% 13.52%,
+        84.82% 14.12%,
+        85.52% 17.72%,
+        89.04% 18.76%,
+        89.29% 22.42%,
+        92.65% 23.9%,
+        92.43% 27.57%,
+        95.58% 29.45%,
+        94.91% 33.06%,
+        97.8% 35.33%,
+        96.68% 38.82%,
+        99.26% 41.43%,
+        97.71% 44.76%,
+        99.95% 47.68%,
+        97.99% 50.78%
+    );
+}
+
+.profile-style-11 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        99.84% 53.95%,
+        83.66% 54.81%,
+        98.95% 60.17%,
+        82.79% 58.99%,
+        97.29% 66.23%,
+        81.4% 63.03%,
+        94.89% 72.03%,
+        79.52% 66.86%,
+        91.77% 77.48%,
+        77.18% 70.43%,
+        88% 82.5%,
+        74.4% 73.68%,
+        83.63% 87%,
+        71.24% 76.55%,
+        78.72% 90.93%,
+        67.75% 79%,
+        73.37% 94.2%,
+        63.97% 81%,
+        67.64% 96.78%,
+        59.98% 82.5%,
+        61.64% 98.63%,
+        55.82% 83.5%,
+        55.46% 99.7%,
+        51.58% 83.96%,
+        49.18% 99.99%,
+        47.31% 83.89%,
+        42.92% 99.5%,
+        43.08% 83.29%,
+        36.78% 98.22%,
+        38.97% 82.16%,
+        30.84% 96.18%,
+        35.02% 80.52%,
+        25.2% 93.42%,
+        31.32% 78.41%,
+        19.95% 89.97%,
+        27.9% 75.84%,
+        15.18% 85.88%,
+        24.84% 72.87%,
+        10.96% 81.24%,
+        22.17% 69.53%,
+        7.35% 76.1%,
+        19.94% 65.89%,
+        4.42% 70.55%,
+        18.19% 62%,
+        2.2% 64.67%,
+        16.93% 57.92%,
+        0.74% 58.57%,
+        16.2% 53.71%,
+        0.05% 52.32%,
+        16% 49.44%,
+        0.16% 46.05%,
+        16.34% 45.19%,
+        1.05% 39.83%,
+        17.21% 41.01%,
+        2.71% 33.77%,
+        18.6% 36.97%,
+        5.11% 27.97%,
+        20.48% 33.14%,
+        8.23% 22.52%,
+        22.82% 29.57%,
+        12% 17.5%,
+        25.6% 26.32%,
+        16.37% 13%,
+        28.76% 23.45%,
+        21.28% 9.07%,
+        32.25% 21%,
+        26.63% 5.8%,
+        36.03% 19%,
+        32.36% 3.22%,
+        40.02% 17.5%,
+        38.36% 1.37%,
+        44.18% 16.5%,
+        44.54% 0.3%,
+        48.42% 16.04%,
+        50.82% 0.01%,
+        52.69% 16.11%,
+        57.08% 0.5%,
+        56.92% 16.71%,
+        63.22% 1.78%,
+        61.03% 17.84%,
+        69.16% 3.82%,
+        64.98% 19.48%,
+        74.8% 6.58%,
+        68.68% 21.59%,
+        80.05% 10.03%,
+        72.1% 24.16%,
+        84.82% 14.12%,
+        75.16% 27.13%,
+        89.04% 18.76%,
+        77.83% 30.47%,
+        92.65% 23.9%,
+        80.06% 34.11%,
+        95.58% 29.45%,
+        81.81% 38%,
+        97.8% 35.33%,
+        83.07% 42.08%,
+        99.26% 41.43%,
+        83.8% 46.29%,
+        99.95% 47.68%,
+        84% 50.56%
+    );
+}
+
+.profile-style-12 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        93.3% 75%,
+        74.5% 92.44%,
+        50% 100%,
+        25.5% 92.44%,
+        6.7% 75%,
+        1% 50%,
+        6.7% 25%,
+        25.5% 7.56%,
+        50% 0%,
+        74.5% 7.56%,
+        93.3% 25%,
+        99% 50%
+    );
+}
+
+.profile-style-13 {
+    width: 200px;
+    aspect-ratio: 1;
+    clip-path: polygon(
+        99.8% 54.48%,
+        79.39% 56.02%,
+        97.55% 65.45%,
+        77.31% 62.41%,
+        92.92% 75.64%,
+        73.87% 68.17%,
+        86.14% 84.55%,
+        69.23% 73.03%,
+        77.54% 91.73%,
+        63.62% 76.73%,
+        67.57% 96.81%,
+        57.33% 79.09%,
+        56.71% 99.55%,
+        50.67% 79.99%,
+        45.52% 99.8%,
+        43.98% 79.39%,
+        34.55% 97.55%,
+        37.59% 77.31%,
+        24.36% 92.92%,
+        31.83% 73.87%,
+        15.45% 86.14%,
+        26.97% 69.23%,
+        8.27% 77.54%,
+        23.27% 63.62%,
+        3.19% 67.57%,
+        20.91% 57.33%,
+        0.45% 56.71%,
+        20.01% 50.67%,
+        0.2% 45.52%,
+        20.61% 43.98%,
+        2.45% 34.55%,
+        22.69% 37.59%,
+        7.08% 24.36%,
+        26.13% 31.83%,
+        13.86% 15.45%,
+        30.77% 26.97%,
+        22.46% 8.27%,
+        36.38% 23.27%,
+        32.43% 3.19%,
+        42.67% 20.91%,
+        43.29% 0.45%,
+        49.33% 20.01%,
+        54.48% 0.2%,
+        56.02% 20.61%,
+        65.45% 2.45%,
+        62.41% 22.69%,
+        75.64% 7.08%,
+        68.17% 26.13%,
+        84.55% 13.86%,
+        73.03% 30.77%,
+        91.73% 22.46%,
+        76.73% 36.38%,
+        96.81% 32.43%,
+        79.09% 42.67%,
+        99.55% 43.29%,
+        79.99% 49.33%
+    );
+}
+
+/* Patterns */
+
+.bg-pattern-1 {
+    --s: 84px; /* control the size*/
+    --c1: #f2f2f2;
+    --c2: #cdcbcc;
+    --c3: #999999;
+
+    --_g: 0 120deg, #0000 0;
+    background: conic-gradient(
+            from 0deg at calc(500% / 6) calc(100% / 3),
+            var(--c3) var(--_g)
+        ),
+        conic-gradient(
+            from -120deg at calc(100% / 6) calc(100% / 3),
+            var(--c2) var(--_g)
+        ),
+        conic-gradient(
+            from 120deg at calc(100% / 3) calc(500% / 6),
+            var(--c1) var(--_g)
+        ),
+        conic-gradient(
+            from 120deg at calc(200% / 3) calc(500% / 6),
+            var(--c1) var(--_g)
+        ),
+        conic-gradient(
+            from -180deg at calc(100% / 3) 50%,
+            var(--c2) 60deg,
+            var(--c1) var(--_g)
+        ),
+        conic-gradient(
+            from 60deg at calc(200% / 3) 50%,
+            var(--c1) 60deg,
+            var(--c3) var(--_g)
+        ),
+        conic-gradient(
+            from -60deg at 50% calc(100% / 3),
+            var(--c1) 120deg,
+            var(--c2) 0 240deg,
+            var(--c3) 0
+        );
+    background-size: calc(var(--s) * 1.732) var(--s);
+}
+
+.bg-pattern-2 {
+    --s: 200px; /* control the size */
+    --c1: #1d1d1d;
+    --c2: #4e4f51;
+    --c3: #3c3c3c;
+
+    background: repeating-conic-gradient(
+                from 30deg,
+                #0000 0 120deg,
+                var(--c3) 0 180deg
+            )
+            calc(0.5 * var(--s)) calc(0.5 * var(--s) * 0.577),
+        repeating-conic-gradient(
+            from 30deg,
+            var(--c1) 0 60deg,
+            var(--c2) 0 120deg,
+            var(--c3) 0 180deg
+        );
+    background-size: var(--s) calc(var(--s) * 0.577);
+}
+
+.bg-pattern-3 {
+    --s: 72px; /* control the size */
+
+    background: radial-gradient(#c02942 24%, #0000 25%),
+        radial-gradient(#53777a 30%, #0000 32%) calc(var(--s) / 2)
+            calc(var(--s) / 2),
+        repeating-conic-gradient(from 30deg, #ecd078 0 30deg, #d95b43 0 90deg);
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-4 {
+    --s: 100px; /* control the size */
+    --c1: #fff0e5;
+    --c2: #025d8c;
+    --c3: #e1642a;
+
+    --_g: 50%, #0000 37%, var(--c1) 39% 70%, #0000 72%;
+    --_t: 50%, var(--c2) 40deg, var(--c3) 0 140deg, var(--c2) 0 180deg, #0000 0;
+    --_s: 47% 50% at;
+    background: radial-gradient(var(--_s) -10% var(--_g)) 0 calc(var(--s) / 2),
+        radial-gradient(var(--_s) -10% var(--_g)) calc(var(--s) / 2) 0,
+        radial-gradient(var(--_s) 110% var(--_g)),
+        radial-gradient(var(--_s) 110% var(--_g)) calc(var(--s) / 2)
+            calc(var(--s) / 2),
+        conic-gradient(from 0deg at 55% var(--_t)) calc(var(--s) / 4) 0,
+        conic-gradient(from 180deg at 45% var(--_t)) calc(var(--s) / 4) 0,
+        var(--c2);
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-5 {
+    --s: 150px; /* control the size */
+    --c1: #f7d2a1;
+    --c2: #05057e;
+
+    --_g: var(--c1) 0% 5%, var(--c2) 6% 15%, var(--c1) 16% 25%,
+        var(--c2) 26% 35%, var(--c1) 36% 45%, var(--c2) 46% 55%,
+        var(--c1) 56% 65%, var(--c2) 66% 75%, var(--c1) 76% 85%,
+        var(--c2) 86% 95%, #0000 96%;
+    background: radial-gradient(50% 50% at 100% 0, var(--_g)),
+        radial-gradient(50% 50% at 0 100%, var(--_g)),
+        radial-gradient(50% 50%, var(--_g)),
+        radial-gradient(50% 50%, var(--_g)) calc(var(--s) / 2)
+            calc(var(--s) / 2) var(--c1);
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-6 {
+    --s: 105px; /* control the size */
+    --c1: #b9b9b9;
+    --c2: #dcdcdc;
+    --c3: #fafafa;
+
+    background: conic-gradient(
+                from 75deg,
+                var(--c1) 15deg,
+                var(--c2) 0 30deg,
+                #0000 0 180deg,
+                var(--c2) 0 195deg,
+                var(--c1) 0 210deg,
+                #0000 0
+            )
+            calc(0.5 * var(--s)) calc(0.5 * var(--s) / 0.577),
+        conic-gradient(
+            var(--c1) 30deg,
+            var(--c3) 0 75deg,
+            var(--c1) 0 90deg,
+            var(--c2) 0 105deg,
+            var(--c3) 0 150deg,
+            var(--c2) 0 180deg,
+            var(--c3) 0 210deg,
+            var(--c1) 0 256deg,
+            var(--c2) 0 270deg,
+            var(--c1) 0 286deg,
+            var(--c2) 0 331deg,
+            var(--c3) 0
+        );
+    background-size: var(--s) calc(var(--s) / 0.577);
+    /* 0.577=tan(30deg)*/
+}
+
+.bg-pattern-7 {
+    --s: 120px; /* control the size */
+
+    background: conic-gradient(
+                from 150deg at 50% 33%,
+                #0000,
+                #fa6900 0.5deg 60deg,
+                #0000 60.5deg
+            )
+            calc(var(--s) / 2) calc(var(--s) / 1.4),
+        conic-gradient(
+            from -30deg at 50% 66%,
+            #0000,
+            #d95b43 0.5deg 60deg,
+            #ecd078 60.5deg
+        );
+    background-size: var(--s) calc(var(--s) / 1.154);
+}
+
+.bg-pattern-8 {
+    --s: 100px; /* control the size */
+    --c1: #4ecdc4;
+    --c2: #556270;
+
+    background: linear-gradient(
+            -26.56deg,
+            var(--c1) 33%,
+            var(--c2) 33.3% 66.6%,
+            var(--c1) 67%
+        )
+        0 / var(--s) var(--s);
+    /* 26.56deg = arctan(0.5) */
+}
+
+.bg-pattern-9 {
+    --s: 100px; /* control the size */
+
+    --_g: #eceddc /* first color */ 90deg, #0000 90.5deg;
+    background: conic-gradient(from -45deg, var(--_g)),
+        conic-gradient(from 135deg, var(--_g)) calc(var(--s) / 2) 0, #29ab87; /* second color */
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-10 {
+    --s: 150px; /* control the size */
+    --c1: #ff847c;
+    --c2: #e84a5f;
+    --c3: #fecea8;
+    --c4: #99b898;
+
+    background: conic-gradient(
+            from 45deg at 75% 75%,
+            var(--c3) 90deg,
+            var(--c1) 0 180deg,
+            #0000 0
+        ),
+        conic-gradient(from -45deg at 25% 25%, var(--c3) 90deg, #0000 0),
+        conic-gradient(from -45deg at 50% 100%, #0000 180deg, var(--c3) 0),
+        conic-gradient(
+            from -45deg,
+            var(--c1) 90deg,
+            var(--c2) 0 225deg,
+            var(--c4) 0
+        );
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-11 {
+    --s: 200px; /* control the size */
+    --c: #fff; /* first color */
+
+    --_g: #0000 8%, var(--c) 0 17%, #0000 0 58%;
+    background: linear-gradient(135deg, #0000 20.5%, var(--c) 0 29.5%, #0000 0)
+            0 calc(var(--s) / 4),
+        linear-gradient(45deg, var(--_g)) calc(var(--s) / 2) 0,
+        linear-gradient(135deg, var(--_g), var(--c) 0 67%, #0000 0),
+        linear-gradient(
+            45deg,
+            var(--_g),
+            var(--c) 0 67%,
+            #0000 0 83%,
+            var(--c) 0 92%,
+            #0000 0
+        ),
+        #1095c1; /* second color */
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-12 {
+    --s: 125px; /* control the size */
+    --c1: #f8ca00;
+    --c2: #bd1550;
+
+    --_g: var(--c1) 90deg, var(--c2) 0 135deg, #0000 0;
+    background: conic-gradient(
+            from -45deg at calc(100% / 3) calc(100% / 3),
+            var(--c1) 90deg,
+            #0000 0
+        ),
+        conic-gradient(
+            from -135deg at calc(100% / 3) calc(2 * 100% / 3),
+            var(--_g)
+        ),
+        conic-gradient(
+            from 135deg at calc(2 * 100% / 3) calc(2 * 100% / 3),
+            var(--_g)
+        ),
+        conic-gradient(
+            from 45deg at calc(2 * 100% / 3) calc(100% / 3),
+            var(--_g),
+            var(--c1) 0 225deg,
+            var(--c2) 0
+        );
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-13 {
+    --s: 64px; /* control the size */
+    --c1: #eb6841;
+    --c2: #edc951;
+
+    background: conic-gradient(
+                from -45deg,
+                var(--c1) 90deg,
+                #0000 0 180deg,
+                var(--c2) 0 270deg,
+                #0000 0
+            )
+            0 calc(var(--s) / 2) / var(--s) var(--s),
+        conic-gradient(from 135deg at 50% 0, var(--c1) 90deg, var(--c2) 0) 0 0 /
+            calc(2 * var(--s)) var(--s);
+}
+
+.bg-pattern-14 {
+    --s: 120px; /* control the size */
+
+    --_c: #72e21f /* color 1 */ 25%, #0000 0;
+    --_g1: conic-gradient(at 62.5% 12.5%, var(--_c));
+    --_g2: conic-gradient(at 87.5% 62.5%, var(--_c));
+    --_g3: conic-gradient(at 25% 12.5%, var(--_c));
+    background: var(--_g1) calc(var(--s) / -8) calc(var(--s) / 2),
+        var(--_g1) calc(-3 * var(--s) / 8) calc(var(--s) / 4),
+        var(--_g2) calc(3 * var(--s) / 8) calc(var(--s) / 4),
+        var(--_g2) calc(var(--s) / -8) 0, var(--_g3) 0 calc(var(--s) / -4),
+        var(--_g3) calc(var(--s) / -4) 0,
+        conic-gradient(at 87.5% 87.5%, var(--_c)) calc(var(--s) / 8) 0 #044012; /* color 2 */
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-15 {
+    --s: 65px; /* control the size */
+    --c1: #dadee1;
+    --c2: #4a99b4;
+    --c3: #9cceb5;
+
+    --_c: 75%, var(--c3) 52.72deg, #0000 0;
+    --_g1: conic-gradient(from -116.36deg at 25% var(--_c));
+    --_g2: conic-gradient(from 63.43deg at 75% var(--_c));
+    background: var(--_g1), var(--_g1) calc(3 * var(--s)) calc(var(--s) / 2),
+        var(--_g2), var(--_g2) calc(3 * var(--s)) calc(var(--s) / 2),
+        conic-gradient(
+            var(--c2) 63.43deg,
+            var(--c1) 0 116.36deg,
+            var(--c2) 0 180deg,
+            var(--c1) 0 243.43deg,
+            var(--c2) 0 296.15deg,
+            var(--c1) 0
+        );
+    background-size: calc(2 * var(--s)) var(--s);
+}
+
+.bg-pattern-16 {
+    --s: 82px; /* control the size */
+    --c1: #b2b2b2;
+    --c2: #ffffff;
+    --c3: #d9d9d9;
+
+    --_g: var(--c3) 0 120deg, #0000 0;
+    background: conic-gradient(from -60deg at 50% calc(100% / 3), var(--_g)),
+        conic-gradient(from 120deg at 50% calc(200% / 3), var(--_g)),
+        conic-gradient(
+            from 60deg at calc(200% / 3),
+            var(--c3) 60deg,
+            var(--c2) 0 120deg,
+            #0000 0
+        ),
+        conic-gradient(
+            from 180deg at calc(100% / 3),
+            var(--c1) 60deg,
+            var(--_g)
+        ),
+        linear-gradient(
+            90deg,
+            var(--c1) calc(100% / 6),
+            var(--c2) 0 50%,
+            var(--c1) 0 calc(500% / 6),
+            var(--c2) 0
+        );
+    background-size: calc(1.732 * var(--s)) var(--s);
+}
+
+.bg-pattern-17 {
+    --s: 60px; /* control the size */
+
+    --_g: #0000 83%, #b09f79 85% 99%, #0000 101%;
+    background: radial-gradient(27% 29% at right, var(--_g)) calc(var(--s) / 2)
+            var(--s),
+        radial-gradient(27% 29% at left, var(--_g)) calc(var(--s) / -2) var(--s),
+        radial-gradient(29% 27% at top, var(--_g)) 0 calc(var(--s) / 2),
+        radial-gradient(29% 27% at bottom, var(--_g)) 0 calc(var(--s) / -2)
+            #476074;
+    background-size: calc(2 * var(--s)) calc(2 * var(--s));
+}
+
+.bg-pattern-18 {
+    --s: 80px; /* the size */
+    --c: #5e8c6a;
+
+    --_s: calc(2 * var(--s)) calc(2 * var(--s));
+    --_g: 35.36% 35.36% at;
+    --_c: #0000 66%, #bfb35a 68% 70%, #0000 72%;
+    background: radial-gradient(var(--_g) 100% 25%, var(--_c)) var(--s) var(--s) /
+            var(--_s),
+        radial-gradient(var(--_g) 0 75%, var(--_c)) var(--s) var(--s) /
+            var(--_s),
+        radial-gradient(var(--_g) 100% 25%, var(--_c)) 0 0 / var(--_s),
+        radial-gradient(var(--_g) 0 75%, var(--_c)) 0 0 / var(--_s),
+        repeating-conic-gradient(var(--c) 0 25%, #0000 0 50%) 0 0 / var(--_s),
+        radial-gradient(var(--_c)) 0 calc(var(--s) / 2) / var(--s) var(--s)
+            var(--c);
+}
+
+.bg-pattern-19 {
+    --s: 150px; /* control the size */
+    --c1: #ccbf82;
+    --c2: #604848;
+
+    --_g: var(--c1) 6.25%, var(--c2) 6.3% 18.75%, var(--c1) 18.8% 31.25%,
+        var(--c2) 31.3% 43.75%, var(--c1) 43.8% 56.25%, var(--c2) 56.3% 68.75%,
+        #0000 0;
+    background: radial-gradient(var(--s) at 100% 0, var(--_g)),
+        radial-gradient(var(--s) at 0 0, var(--_g)),
+        radial-gradient(var(--s) at 0 100%, var(--_g)),
+        radial-gradient(var(--s) at 100% 100%, var(--_g)) var(--c1);
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-20 {
+    --s: 60px; /* control the size */
+    --c1: #ffdc56;
+    --c2: #fe6601;
+    --c3: #803201;
+
+    --_s: calc(2 * var(--s)) calc(2 * var(--s));
+    --_g1: var(--_s)
+        conic-gradient(at calc(500% / 6) 50%, var(--c3) 25%, #0000 0);
+    --_g2: var(--_s)
+        conic-gradient(at calc(200% / 3) 50%, var(--c2) 25%, #0000 0);
+    background: var(--s) var(--s) / var(--_g1), 0 0 / var(--_g1),
+        var(--s) var(--s) / var(--_g2), 0 0 / var(--_g2),
+        repeating-conic-gradient(var(--c1) 0 25%, #0000 0 50%) 0 0 / var(--_s),
+        linear-gradient(
+                var(--c1) calc(100% / 3),
+                var(--c2) 0 calc(200% / 3),
+                var(--c3) 0
+            )
+            0 0 / var(--s) var(--s);
+}
+
+.bg-pattern-21 {
+    --s: 20px; /* control the size */
+    --c1: #f2b4a8;
+    --c2: #91204d;
+
+    --_g: radial-gradient(25% 25% at 25% 25%, var(--c1) 99%, #0000 101%);
+    background: var(--_g) var(--s) var(--s) / calc(2 * var(--s))
+            calc(2 * var(--s)),
+        var(--_g) 0 0 / calc(2 * var(--s)) calc(2 * var(--s)),
+        radial-gradient(50% 50%, var(--c2) 98%, #0000) 0 0 / var(--s) var(--s),
+        repeating-conic-gradient(var(--c2) 0 25%, var(--c1) 0 50%)
+            calc(0.5 * var(--s)) 0 / calc(2 * var(--s)) var(--s);
+}
+
+.bg-pattern-22 {
+    --s: 70px; /* control the size */
+    --c: #6b5344;
+
+    --_l: #0000 46%, var(--c) 47% 53%, #0000 54%;
+    background: radial-gradient(100% 100% at 100% 100%, var(--_l)) var(--s)
+            var(--s),
+        radial-gradient(100% 100% at 0 0, var(--_l)) var(--s) var(--s),
+        radial-gradient(
+                100% 100%,
+                #0000 22%,
+                var(--c) 23% 29%,
+                #0000 30% 34%,
+                var(--c) 35% 41%,
+                #0000 42%
+            )
+            #f8ecc9;
+    background-size: calc(var(--s) * 2) calc(var(--s) * 2);
+}
+
+.bg-pattern-23 {
+    --s: 100px; /* control the size */
+    --c1: #f8b195;
+    --c2: #355c7d;
+
+    --_g: var(--c2) 6% 14%, var(--c1) 16% 24%, var(--c2) 26% 34%,
+        var(--c1) 36% 44%, var(--c2) 46% 54%, var(--c1) 56% 64%,
+        var(--c2) 66% 74%, var(--c1) 76% 84%, var(--c2) 86% 94%;
+    background: radial-gradient(
+            100% 100% at 100% 0,
+            var(--c1) 4%,
+            var(--_g),
+            #0008 96%,
+            #0000
+        ),
+        radial-gradient(
+                100% 100% at 0 100%,
+                #0000,
+                #0008 4%,
+                var(--_g),
+                var(--c1) 96%
+            )
+            var(--c1);
+    background-size: var(--s) var(--s);
+}
+
+.bg-pattern-24 {
+    --_g: #036564 35%, #0000 36%;
+    background: radial-gradient(at 100% 100%, var(--_g)),
+        radial-gradient(at 0 0, var(--_g)) #e8ddcb;
+    background-size: 4em 4em;
+}
+
+.bg-pattern-25 {
+    --s: 34px; /* control the size (the circle diameter) */
+    --c1: #ecbe13;
+    --c2: #309292;
+
+    --_g: radial-gradient(calc(var(--s) / 2), var(--c1) 97%, #0000);
+    background: var(--_g), var(--_g) calc(2 * var(--s)) calc(2 * var(--s)),
+        repeating-conic-gradient(from 45deg, #0000 0 25%, var(--c2) 0 50%)
+            calc(-0.707 * var(--s)) calc(-0.707 * var(--s)),
+        repeating-linear-gradient(
+            135deg,
+            var(--c1) calc(var(--s) / -2) calc(var(--s) / 2),
+            var(--c2) 0 calc(2.328 * var(--s))
+        );
+    background-size: calc(4 * var(--s)) calc(4 * var(--s));
+    /* 
+      0.707 = sqrt(2)/2
+      2.328 = 2*sqrt(2) - .5
+    */
+}
+
+.bg-pattern-26 {
+    --s: 50px; /* control the size */
+    --c1: #d9ceb2;
+    --c2: #948c75;
+
+    --_g: calc(2 * var(--s)) calc(2 * var(--s))
+        radial-gradient(25% 25%, var(--c1) 99%, #0000 101%);
+    background: 0 var(--s) / var(--_g), var(--s) 0 / var(--_g),
+        radial-gradient(50% 50%, var(--c2) 97%, #0000) calc(var(--s) / 2)
+            calc(var(--s) / 2) / var(--s) var(--s),
+        linear-gradient(90deg, var(--c1) 50%, var(--c2) 0) 0 0 /
+            calc(2 * var(--s));
+}
+
+.bg-pattern-27 {
+    --s: 84px; /* control the size */
+
+    --c: #fff;
+    --a: from -30deg at;
+    background: linear-gradient(#0000 50%, #0004 0),
+        conic-gradient(var(--a) 90%, var(--c) 240deg, #0000 0),
+        conic-gradient(var(--a) 75%, #71e9a0 240deg, #0000 0),
+        conic-gradient(var(--a) 25%, #0000 240deg, var(--c) 0),
+        conic-gradient(var(--a) 40%, var(--c) 240deg, #2a6a9b 0);
+    background-size: calc(1.5 * var(--s)) var(--s);
+}
+
+.bg-pattern-28 {
+    --s: 6px; /* control the size */
+
+    --g: #0000 66%, #3b2d38 68% 98%, #0000;
+    background: radial-gradient(30% 30% at 0% 30%, var(--g)) var(--s)
+            calc(9 * var(--s)),
+        radial-gradient(30% 30% at 100% 30%, var(--g)) var(--s)
+            calc(-1 * var(--s)),
+        radial-gradient(30% 30% at 30% 100%, var(--g)) calc(10 * var(--s)) 0,
+        radial-gradient(30% 30% at 30% 0%, var(--g)) #f02475;
+    background-size: calc(20 * var(--s)) calc(20 * var(--s));
+}
+
+.bg-pattern-29 {
+    --s: 50px; /* control the size */
+
+    --p: at 45% 40%, #0000 75%;
+    --g1: conic-gradient(var(--p) #c0b299 0);
+    --g2: conic-gradient(var(--p) #a4a9aa 0);
+    background: var(--g1), var(--g2) calc(2 * var(--s)) 0,
+        var(--g2) calc(3 * var(--s)) var(--s),
+        var(--g1) var(--s) var(--s) #2c2e2a;
+    background-size: calc(4 * var(--s)) calc(2 * var(--s));
+}
+
+.bg-pattern-30 {
+    --s: 96px; /* control the size */
+
+    --g: #000 0 25%, #fff 0 50%;
+    background: repeating-conic-gradient(from 45deg, var(--g)) 0 0 / var(--s)
+            var(--s),
+        repeating-conic-gradient(var(--g)) 0 0 / calc(2 * var(--s))
+            calc(2 * var(--s));
+    background-blend-mode: difference;
+}
+
+/* Labels */
+
+/* HTML: <div class="ribbon">Your text content</div> */
+.ribbon-1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+}
+.ribbon-1 {
+    --s: 1.8em; /* the ribbon size */
+    --d: 0.8em; /* the depth */
+    --c: 0.8em; /* the cutout part */
+
+    padding: 0 calc(var(--s) + 0.5em) var(--d);
+    line-height: 1.8;
+    background: conic-gradient(
+                at left var(--s) bottom var(--d),
+                #0000 25%,
+                #0008 0 37.5%,
+                #0004 0
+            )
+            0 /50% 100% no-repeat,
+        conic-gradient(
+                at right var(--s) bottom var(--d),
+                #0004 62.5%,
+                #0008 0 75%,
+                #0000 0
+            )
+            100%/50% 100% no-repeat;
+    clip-path: polygon(
+        0 var(--d),
+        var(--s) var(--d),
+        var(--s) 0,
+        calc(100% - var(--s)) 0,
+        calc(100% - var(--s)) var(--d),
+        100% var(--d),
+        calc(100% - var(--c)) calc(50% + var(--d) / 2),
+        100% 100%,
+        calc(100% - var(--s) - var(--d)) 100%,
+        calc(100% - var(--s) - var(--d)) calc(100% - var(--d)),
+        calc(var(--s) + var(--d)) calc(100% - var(--d)),
+        calc(var(--s) + var(--d)) 100%,
+        0 100%,
+        var(--c) calc(50% + var(--d) / 2)
+    );
+    background-color: #d41266; /* the main color */
+    width: fit-content;
+}
+
+/* HTML: <div class="ribbon">Your text content</div> */
+.ribbon-2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+}
+.ribbon-2 {
+    --s: 1.8em; /* the ribbon size */
+    --d: 0.8em; /* the depth */
+    --c: 0.8em; /* the cutout part */
+
+    padding: var(--d) calc(var(--s) + 0.5em) 0;
+    line-height: 1.8;
+    background: conic-gradient(
+                from 45deg at left var(--s) top var(--d),
+                #0008 12.5%,
+                #0000 0 37.5%,
+                #0004 0
+            )
+            0 /50% 100% no-repeat,
+        conic-gradient(
+                from -45deg at right var(--s) top var(--d),
+                #0004 62.5%,
+                #0000 0 87.5%,
+                #0008 0
+            )
+            100%/50% 100% no-repeat;
+    clip-path: polygon(
+        0 0,
+        calc(var(--s) + var(--d)) 0,
+        calc(var(--s) + var(--d)) var(--d),
+        calc(100% - var(--s) - var(--d)) var(--d),
+        calc(100% - var(--s) - var(--d)) 0,
+        100% 0,
+        calc(100% - var(--c)) calc(50% - var(--d) / 2),
+        100% calc(100% - var(--d)),
+        calc(100% - var(--s)) calc(100% - var(--d)),
+        calc(100% - var(--s)) 100%,
+        var(--s) 100%,
+        var(--s) calc(100% - var(--d)),
+        0 calc(100% - var(--d)),
+        var(--c) calc(50% - var(--d) / 2)
+    );
+    background-color: #d95b43; /* the main color */
+    width: fit-content;
+}
